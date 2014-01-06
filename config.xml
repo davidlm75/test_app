@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.eduonix.test_app"
+        id        = "com.dlmwebdesign.test_app"
         version   = "1.0.0">
 
     <name>Testing Application</name>
@@ -12,7 +12,7 @@
         This is a testing app for PhoneGap
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
+    <author href="http://phonegap.com" email="davidlm1975@gmail.com">
        Dave Merritt
     </author>
 
